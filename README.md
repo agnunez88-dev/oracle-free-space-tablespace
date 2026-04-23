@@ -4,6 +4,7 @@ Release space from sysaux, temp and undotbs
 Tablespace SYSAUX
 
 Pasos
+
 1 Crear tablespace TS_AUDITORIA	
 
 2 Mover la tabla aud$ para el nuevo tablespace
